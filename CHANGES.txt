@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+2.1.25 (2017-02-12)
+==================
+
+- Created a fanstatic for bootstrap daterangepicker (http://www.daterangepicker.com/)
